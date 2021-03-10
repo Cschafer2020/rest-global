@@ -23,7 +23,7 @@ GERX requires no payment from the landholder. What's the catch? None – we are 
 <p> What is the carbon market?
 Organisations buying carbon credits to voluntarily or compulsorily reduce their carbon footprints purchase carbon credits. Carbon credits are created by forest growth, so as tress grow on your restored property, you profit from the carbon market. 
 
-This is as close as you'll ever get to money growing on trees. ,P>
+This is as close as you'll ever get to money growing on trees. <P>
 
     <Link to="/">Go back to the homepage</Link>
   </Layout>
